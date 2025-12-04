@@ -11,8 +11,8 @@ How it Helps Me
 
 - This protects my equipment and keeps my VR headset away from the surface of the desk and helps to ensure that the lenses and straps are not scratched.
 
-- This keeps the surroundings clean as it offers a dedicated, clean place to store the headset when I am not using it.
-
+- This keeps the surroundings clean as it offers a clean place to store the headset when I am not using it.
+- 
 - Besides that, it also looks aesthetically good if you are going to use it as a stand and it gives your desk a good look
 
 
