@@ -2,18 +2,21 @@
 
 What This Project Is
 
-   This is the CAD model for a stand that I designed which was built to hold a VR headset. It uses a wide, stable base and two angled arms with a curved cradle at the top.
 
-How It Helps Me
 
-   It protects my gear and keeps my VR headset off the desk and prevents the lenses or straps from being scratched or damaged.
+This is the CAD design for the stand that I created for holding the VR headset. This design consists of a broad base and two angled arms that support a curved rest.
 
-   It also keeps things tidy as it provides a specific, clean spot for storing the headset when I'm not using it.
 
-   As well as that it also looks aesthetic if you have a stand and it gives your desk a good look
+How it Helps Me
+
+- This protects my equipment and keeps my VR headset away from the surface of the desk and helps to ensure that the lenses and straps are not scratched.
+
+- This keeps the surroundings clean as it offers a dedicated, clean place to store the headset when I am not using it.
+
+- Besides that, it also looks aesthetically good if you are going to use it as a stand and it gives your desk a good look
+
 
 How Others Can Use It
 
-   Anyone can 3D print the stand for their own use at home.
-
-   Users can easily adjust the size of the base or the curve of the cradle in the CAD file to fit different types of VR headsets or controllers.
+- Anyone can 3D print the stand for their own use
+- The user can easily adjust the size of the base and the shape of the curve for the cradle inside the CAD file to accommodate various types of VR headsets and controllers.
